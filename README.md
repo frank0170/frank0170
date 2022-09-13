@@ -1,10 +1,9 @@
-- 👋 Hi, I’m @frank0170
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👋 Hi, I’m Frank
+- 👀 I’m interested in Blockchain and Web3.0
+developer @ Origyn Foundation
 
-<!---
-frank0170/frank0170 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- 📫 How to reach me https://www.linkedin.com/in/andreas-frank-688a46199/
+
+
+
+
