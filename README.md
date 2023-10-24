@@ -27,7 +27,7 @@
 
 I am a Full Stack Developer with a huge love for React.js, Vue.js, Headless Tech, Everything API, TailwindCSS and System Architecture. Currently, **I'm open to work and employment opportunities**.
 
-I am the co-founder of blockarch.ro, a start-up company thats focused on developing Saas's. I Actively code and build, custom softwares that are handling and managing custome data, Shell Scripts, and APIs (in-house, end user products, and consumers) every day.
+I am the co-founder of blockarch.ro, a start-up company thats focused on developing Saas's. I actively code and build custom softwares (ERP/CRM) that are handling and managing customer data, Shell Scripts, and APIs (in-house, end user products, and consumers) every day.
 
 ### Where to find me
 
