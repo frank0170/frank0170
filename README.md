@@ -25,7 +25,7 @@
 ![Zorin](https://img.shields.io/badge/Zorin%20OS-0CC1F3?style=flat-square&logo=zorin&logoColor=white)
 ![Mac OS](https://img.shields.io/badge/macOS-000000?style=flat-square&logo=apple&logoColor=white)
 
-I am a Full Stack Developer with a huge love for React.js, Vue.js, Headless Tech, Everything API, TailwindCSS and System Architecture. Currently, **I'm open to work and employment opportunities**.
+I am a Full Stack Developer with a specialized in JS: React.js, Next.JS, Nest.JS, Headless Tech, Everything API, TailwindCSS and System Architecture.
 
 I am the co-founder of blockarch.ro, a start-up company thats focused on developing Saas's. I actively code and build custom softwares (ERP/CRM) that are handling and managing customer data, Shell Scripts, and APIs (in-house, end user products, and consumers) every day.
 
