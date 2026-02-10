@@ -25,9 +25,7 @@
 ![Zorin](https://img.shields.io/badge/Zorin%20OS-0CC1F3?style=flat-square&logo=zorin&logoColor=white)
 ![Mac OS](https://img.shields.io/badge/macOS-000000?style=flat-square&logo=apple&logoColor=white)
 
-I am a Full Stack Developer with a specialized in JS: React.js, Next.JS, Nest.JS, Headless Tech, Everything API, TailwindCSS and System Architecture.
-
-I am the co-founder of blockarch.ro, a start-up company thats focused on developing Saas's. I actively code and build custom softwares (ERP/CRM) that are handling and managing customer data, Shell Scripts, and APIs (in-house, end user products, and consumers) every day.
+Full Stack / Web3 Engineer with 7+ years of experience building production-grade fintech and blockchain systems, from enterprise banking platforms to institutional DeFi infrastructure. Proven track record across Web3 protocols, SDKs, and developer tooling, with deep expertise in React, Node.js, Go, and blockchain integrations. Experienced in highly regulated environments, startup ecosystems, and large-scale organizations, bridging complex financial logic with robust, scalable software solutions.
 
 ### Where to find me
 
